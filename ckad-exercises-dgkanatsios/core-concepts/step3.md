@@ -1,0 +1,1 @@
+Create a busybox pod (using kubectl command) that runs the command "env". Run it and see the output

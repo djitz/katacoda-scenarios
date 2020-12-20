@@ -6,6 +6,36 @@
       "title": "Core Concepts",
       "description": "Core Concepts",
       "course_id": "core-concepts"
-    }
+    },
+    {
+      "title": "Configuration",
+      "description": "Configuration",
+      "course_id": "configuration"
+    },
+    {
+      "title": "Multi-Container PODs",
+      "description": "Multi-Container PODs",
+      "course_id": "multi-container-pods"
+    },
+    {
+      "title": "Observability",
+      "description": "Observability",
+      "course_id": "observability"
+    },
+    {
+      "title": "POD Design",
+      "description": "POD Design",
+      "course_id": "pod-design"
+    },
+    {
+      "title": "Services & Networking",
+      "description": "Services & Networking",
+      "course_id": "services-and-networking"
+    },
+    {
+      "title": "State Persistence",
+      "description": "State Persistence",
+      "course_id": "state-persistence"
+    }    
   ]
 }
