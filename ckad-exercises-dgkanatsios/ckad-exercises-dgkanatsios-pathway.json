@@ -1,4 +1,6 @@
 {
+  "title": "CKAD Exercises",
+  "description": "CKAD Exercises - based on https://github.com/dgkanatsios/CKAD-exercises",
   "scenarios": [
     {
       "title": "Core Concepts",
