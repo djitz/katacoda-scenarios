@@ -1,1 +1,1 @@
-Create the pod that was just described using YAML
+Create a pod with image nginx called nginx2 on 'mynamespace' namespace using YAML
