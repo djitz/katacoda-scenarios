@@ -1,11 +1,11 @@
 {
   "title": "CKAD Exercises",
   "description": "CKAD Exercises - based on https://github.com/dgkanatsios/CKAD-exercises",
-  "scenarios": [
+  "courses": [
     {
       "title": "Core Concepts",
       "description": "Core Concepts",
-      "id": "core-concepts"
+      "course_id": "core-concepts"
     }
   ]
 }
